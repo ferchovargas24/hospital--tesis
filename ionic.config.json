@@ -1,5 +1,6 @@
 {
-  "name": "hospital",
-  "app_id": "",
+  "name": "",
+  "app_id": "53e6dae6",
+  "integrations": {},
   "type": "ionic-angular"
 }
